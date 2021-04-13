@@ -1,0 +1,21 @@
+No head só deverá conter as configurações da pagina
+
+ 
+Todo conteudo visivel da pagina deverá vir no body
+
+
+id é um atributo para identificar cada coisa.
+
+
+border = por uma borda
+margin = mexer com fora da coisa
+width = largura
+height = altura
+
+padding = mexer com a coisa (padding-top/left/right/bottom)
+
+text-aling = alinhar o texto
+border-radius = arrendodar as bordas;
+
+
+cntrl+d ( seleciona o proximo elemento igual)

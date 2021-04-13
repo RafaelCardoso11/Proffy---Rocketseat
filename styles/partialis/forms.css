@@ -1,0 +1,26 @@
+.select-block label,
+.input-block label{
+    font-size: 1.4rem;
+    color: #9C98A6;
+}
+.input-block input,
+.select-block select{
+    width: 100%;
+    height: 5.6rem;
+    margin-top: 0.8rem;
+    border-radius: 0.8;
+    background: #F8F8FC;
+    border: 1px solid #E6E6F0;
+    outline: 0;
+    padding: 0 1.6rem;
+    font: 1.6rem Arquivo;
+}
+.input-block:focus-within::after{
+    content: "";
+    width: calc(100% - 3.2rem);
+    height: 2px;
+    background: #916BEA;
+    position: absolute ;
+    left: 1.6rem;
+    bottom: 0px;
+}
